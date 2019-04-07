@@ -69,7 +69,7 @@ Below are the build instructions.
 		
 11.  Install the IC's.  Max232 chip points 'down', RAM chip pointe 'up'
 
-12.  Install the cyclone minicard, UPSIDE DOWN, with the barrel jack to the right.  The Upside dowm minicard will protrude past the top of the main PCB.  This allows
+12.  Install the cyclone minicard, UPSIDE DOWN, with the barrel jack to the right.  The Upside down minicard will protrude past the top of the main PCB.  This allows
 	 the programming header cable to be attached when the miniboard is plugged in.
 	 
 	 
